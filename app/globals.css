@@ -4,3 +4,9 @@
   background: #1a0033;
   --foreground: #171717;
 }
+
+body {
+  max-width: 1440px; 
+  margin: 0 auto; 
+  width: 100%; 
+}
